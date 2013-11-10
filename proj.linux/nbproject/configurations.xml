@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="89">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="Classes"
+                   displayName="Classes"
+                   projectFiles="true"
+                   root="../Classes">
+      <itemPath>../Classes/AppDelegate.cpp</itemPath>
+      <itemPath>../Classes/AppDelegate.h</itemPath>
+      <itemPath>../Classes/AppMacros.h</itemPath>
+      <itemPath>../Classes/GameOverScene.cpp</itemPath>
+      <itemPath>../Classes/GameOverScene.h</itemPath>
+      <itemPath>../Classes/GameScene.cpp</itemPath>
+      <itemPath>../Classes/GameScene.h</itemPath>
+      <itemPath>../Classes/MainMenuScene.cpp</itemPath>
+      <itemPath>../Classes/MainMenuScene.h</itemPath>
+      <itemPath>../Classes/ScoresScene.cpp</itemPath>
+      <itemPath>../Classes/ScoresScene.h</itemPath>
+    </logicalFolder>
+    <df root="." name="proj.linux">
+      <in>main.cpp</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+    <Elem>../Classes</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Cocos2d" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>bin/release/HelloCpp</executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>..</pElem>
+              <pElem>../Classes</pElem>
+              <pElem>../../../../cocos2dx</pElem>
+              <pElem>../../../../cocos2dx/cocoa</pElem>
+              <pElem>../../../../cocos2dx/include</pElem>
+              <pElem>../../../../cocos2dx/kazmath/include</pElem>
+              <pElem>../../../../cocos2dx/platform/linux</pElem>
+              <pElem>../../../../cocos2dx/platform/third_party/linux/libpng</pElem>
+              <pElem>../../../../cocos2dx/platform/third_party/linux/libjpeg</pElem>
+              <pElem>../../../../cocos2dx/platform/third_party/linux/libtiff/include</pElem>
+              <pElem>../../../../cocos2dx/platform/third_party/linux/libwebp</pElem>
+              <pElem>../../../../cocos2dx/platform/third_party/linux</pElem>
+              <pElem>../../../../CocosDenshion/include</pElem>
+              <pElem>../../../../CocosDenshion/linux</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>CC_ENABLE_CHIPMUNK_INTEGRATION=1</Elem>
+              <Elem>LINUX</Elem>
+              <Elem>NDEBUG</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="../Classes/AppDelegate.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../Classes/AppDelegate.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../Classes/AppMacros.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../Classes/GameOverScene.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../Classes/GameOverScene.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../Classes/GameScene.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../Classes/GameScene.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../Classes/MainMenuScene.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../Classes/MainMenuScene.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../Classes/ScoresScene.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../Classes/ScoresScene.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <folder path="Classes">
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
