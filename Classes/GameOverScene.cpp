@@ -1,6 +1,6 @@
 /* 
  * File:   GameOverScene.cpp
- * Author: randy
+ * Author: avenhack
  * 
  * Created on October 8, 2013, 5:19 PM
  */

@@ -1,6 +1,6 @@
 /* 
  * File:   ScoresScene.h
- * Author: randy
+ * Author: avenhack
  *
  * Created on October 18, 2013, 5:37 PM
  */

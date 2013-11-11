@@ -1,6 +1,6 @@
 /* 
  * File:   GameScene.h
- * Author: randy
+ * Author: avenhack
  *
  * Created on October 6, 2013, 3:34 PM
  */

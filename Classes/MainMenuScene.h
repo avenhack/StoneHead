@@ -1,6 +1,6 @@
 /* 
  * File:   MainMenuScene.h
- * Author: randy
+ * Author: avenhack
  *
  * Created on October 5, 2013, 5:31 PM
  */
